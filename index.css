@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: red;
+}
+
+nav {
+    background-color: orange;
+}
+
+aside {
+    background-color: orange;
+}
